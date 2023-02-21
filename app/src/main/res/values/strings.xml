@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Yatrika_2.0</string>
+
+    <!-- Descriptions -->
+    <string name="yatrikaImage">Yatrika Image</string>
+    <string name="AtoZImage">A to Z Image</string>
+
+    <!-- Splash Screen -->
+
+    <string name="name">Developed by</string>
+    <string name="developer">Siddharth Kanikdale</string>
+
+
+    <!-- Login Screen -->
+    <string name="message">Proceed with your</string>
+    <string name="login">Login</string>
+    <string name="username">Username:</string>
+    <string name="rememberMe">Remember Me</string>
+    <string name="forgotPass">Forgot Password</string>
+    <string name="pass">Password:</string>
+    <string name="signIn">Sign In</string>
+
+    <!-- sign In Pages -->
+    <string name="signinMessage">Welcome to Yatrika,</string>
+    <string name="fullName">Name:</string>
+    <string name="phoneNumber">Phone Number:</string>
+    <string name="emailId">Email ID:</string>
+    <string name="confirmPass">Confirm Password:</string>
+
+    <!-- One Time Password Screen-->
+    <string name="verification">VERIFICATION</string>
+    <string name="message_onetimepass">Enter the OTP sent to</string>
+    <string name="verify">Verify</string>
+
+</resources>
